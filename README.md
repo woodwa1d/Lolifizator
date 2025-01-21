@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lolifizator
+- 👋 Hi, I’m @woodwa1d
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning xd
 - ⚡ Fun fact: i would fuck hatsune miku
