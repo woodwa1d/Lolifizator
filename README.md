@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @woodwa1d
-- 👀 I’m interested in coding
+- 👀 I’m interested in CS
 - 🌱 I’m currently learning xd
-- ⚡ Fun fact: i would fuck hatsune miku
+- ⚡ Fun fact: any advice would be great
 
 <!---
 Lolifizator/Lolifizator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
